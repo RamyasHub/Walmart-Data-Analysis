@@ -1,6 +1,6 @@
 # Walmart-Data-Analysis
 
-![dashboard](C:\Users\rams2\OneDrive\Pictures\Screenshots\Walmart Data Analysis-Sales.png)
+![dashboard](Walmart Data Analysis-Sales.png)
 
 ## Description
 
