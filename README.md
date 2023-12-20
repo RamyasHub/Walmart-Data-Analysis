@@ -1,6 +1,6 @@
 # Walmart-Data-Analysis
 
-!(Walmart Data Analysis.png)
+![dashboard](Walmart-Data-Analysis.png)
 
 ## Description
 
